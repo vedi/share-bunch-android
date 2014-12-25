@@ -1,7 +1,12 @@
-Flurry Bunch Android
+Share Bunch Android
 ---
 
-It's Android implementation of Flurry Bunch of Native Gateway.
+It's Android implementation of Share Bunch of Native Gateway.
+
+Share Bunch
+---
+
+It's standard platform-specific sharing functionality. On Android it's implemented through sharing intent.
 
 Native Gateway
 ---
